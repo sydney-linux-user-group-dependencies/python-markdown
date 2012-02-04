@@ -1,3 +1,0 @@
-[submodule "markdown/extensions/markdown.superscript"]
-	path = markdown/extensions/markdown.superscript
-	url = git@github.com:sydney-linux-user-group-dependencies/python-markdown.superscript.git
